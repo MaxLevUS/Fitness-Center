@@ -150,7 +150,7 @@ html::-webkit-scrollbar-thumb {
   margin-left: 1.7rem;
   color: var(--primary);
   cursor: pointer;
-  /* display: none; */
+  display: none;
 }
 
 .body-img {
